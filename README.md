@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo created for the peer assement.
+Repo created for the peer assessment.
